@@ -1,0 +1,1 @@
+This repository demonstrates a common VBScript error arising from its loose typing system.  The script attempts to compare a string and a number directly, leading to unexpected and potentially erroneous comparison results. The solution provides a corrected version that explicitly converts the values to numbers before comparison, ensuring consistent and accurate results.
